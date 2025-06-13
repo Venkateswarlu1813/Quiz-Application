@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Who is the current President of India (as of 2024)?",
+    "options": ["Droupadi Murmu", "Narendra Modi", "Ram Nath Kovind", "Pranab Mukherjee"],
+    "answer": "Droupadi Murmu"
+  },
+  {
+    "question": "Which is the largest continent in the world?",
+    "options": ["Africa", "Asia", "Europe", "Antarctica"],
+    "answer": "Asia"
+  },
+  {
+    "question": "Which day is celebrated as World Environment Day?",
+    "options": ["June 5", "March 22", "April 7", "May 1"],
+    "answer": "June 5"
+  }
+]

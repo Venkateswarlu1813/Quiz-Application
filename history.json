@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Who was the first Mughal emperor of India?",
+    "options": ["Babur", "Akbar", "Aurangzeb", "Shah Jahan"],
+    "answer": "Babur"
+  },
+  {
+    "question": "In which year did India get independence?",
+    "options": ["1945", "1947", "1950", "1930"],
+    "answer": "1947"
+  },
+  {
+    "question": "Who was known as the Iron Man of India?",
+    "options": ["Nehru", "Gandhi", "Sardar Patel", "Rajendra Prasad"],
+    "answer": "Sardar Patel"
+  }
+]

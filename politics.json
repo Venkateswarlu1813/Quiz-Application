@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Which body makes laws in India?",
+    "options": ["Judiciary", "Executive", "Parliament", "Election Commission"],
+    "answer": "Parliament"
+  },
+  {
+    "question": "Who appoints the Prime Minister of India?",
+    "options": ["President", "Chief Justice", "Parliament", "Governor"],
+    "answer": "President"
+  },
+  {
+    "question": "How many members are there in the Rajya Sabha?",
+    "options": ["245", "543", "300", "220"],
+    "answer": "245"
+  }
+]

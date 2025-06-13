@@ -1,0 +1,53 @@
+/* src/components/QuestionCard.css */
+
+.question-container {
+  max-width: 600px;
+  margin: 2rem auto;
+  background-color: #f0f8ff;
+  padding: 2rem;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.question-text {
+  font-size: 1.2rem;
+  margin: 1rem 0;
+}
+
+.options-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.option-button {
+  padding: 0.75rem 1rem;
+  background-color: #00bfff;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.option-button:hover {
+  background-color: #009acd;
+}
+
+.back-button {
+  margin-top: 1.5rem;
+  padding: 0.5rem 1rem;
+  background-color: #ddd;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.95rem;
+  color: #333;
+  transition: background-color 0.2s ease;
+}
+
+.back-button:hover {
+  background-color: #bbb;
+}

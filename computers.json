@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What does CPU stand for?",
+    "options": ["Central Processing Unit", "Control Panel Unit", "Central Performance Unit", "Compute Process Unit"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "question": "Which language is primarily used for web development?",
+    "options": ["Python", "C", "JavaScript", "Java"],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What is the shortcut to copy on a computer?",
+    "options": ["Ctrl + V", "Ctrl + C", "Ctrl + X", "Ctrl + Z"],
+    "answer": "Ctrl + C"
+  }
+]
